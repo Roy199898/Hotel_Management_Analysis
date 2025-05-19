@@ -1,5 +1,8 @@
 # 🏨 Hotel Management Dashboard – Power BI Project
 
+
+![Dashboard Preview](Hotel_management_dashboard_pic.png)
+
 This Power BI project presents an interactive and insightful dashboard for analyzing hotel operations and customer experiences. It focuses on customer complaints, room occupancy, revenue generation, and engagement by country of origin, allowing management to make data-driven decisions.
 
 ---
@@ -82,4 +85,4 @@ The objective of this project is to gain actionable insights into hotel performa
 
 ---
 
-![Dashboard Preview](Hotel_management_dashboard_pic.png)
+
